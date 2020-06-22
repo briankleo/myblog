@@ -1,12 +1,12 @@
 baseurl = "/"
-title = "My blog"
+title = "SmartFootyFans"
 theme = "casper3"
 
 [Params]
     mainSections = ["post"]
     intro = true
     headline = "My headline"
-    description = "My description"
+    description = "Data Science X AFL"
     github = "https://github.com/XXX"
     twitter = "https://twitter.com/XXX"
     email = "XXX@example.com"
