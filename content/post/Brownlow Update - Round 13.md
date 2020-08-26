@@ -12,11 +12,11 @@ My model is based on a number of player variables from a match that includes Sup
 
 Other insights include:
 
-- Based on my model Jackson Macrae, Taylor Adams and Zach Merret have not been historically strong vote getters despite having productive years. Yet they find themselves with a very strong chance of placing in the top 3 with 5 rounds to go.
+Based on my model Jackson Macrae, Taylor Adams and Zach Merret have not been historically strong vote getters despite having productive years. Yet they find themselves with a very strong chance of placing in the top 3 with 5 rounds to go.
 
-- In the supercoach model, there are 3 ruckmen in Todd Goldstein, Max Gawn and Brodie Grundy in the top 6 for the year so far.
+In the supercoach model, there are 3 ruckmen in Todd Goldstein, Max Gawn and Brodie Grundy in the top 6 for the year so far.
 
-- The betting agencies currently have Neale, Christian Petracca, Travis Boak and Dustin Martin as the favourites to win in that order. From these favourites the first 3 are in the top 7 of my model while the SC model only has Neale in the top 10.
+The betting agencies currently have Neale, Christian Petracca, Travis Boak and Dustin Martin as the favourites to win in that order. From these favourites the first 3 are in the top 7 of my model while the SC model only has Neale in the top 10.
 
 Leaderboards from my model and the SC model:
 
