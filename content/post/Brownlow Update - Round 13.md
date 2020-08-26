@@ -1,7 +1,7 @@
 ---
 title: "Brownlow Update - Round 13"
 description: "description"
-date: 2020-08-28T11:41:08+10:00
+date: 2020-08-25T11:41:08+10:00
 ---
 
 ## Neale still in pole position 
