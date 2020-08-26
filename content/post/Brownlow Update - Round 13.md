@@ -20,6 +20,6 @@ The betting agencies currently have Neale, Christian Petracca, Travis Boak and D
 
 Leaderboards from my model and the SC model:
 
-![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/2020%20Round%2013%20Brownlow%20Mymodel.png?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
+![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/2020%20Round%2013%20Brownlow%20Mymodel.PNG?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
 
-![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/2020%20Round%2013%20Brownlow%20SCmodel.png?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
+![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/2020%20Round%2013%20Brownlow%20SCmodel.PNG?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
