@@ -1,15 +1,23 @@
 ---
-title: "It starts with data.."
+title: "Brownlow Update - Round 13"
 description: "description"
-date: 2020-06-22T11:41:08+10:00
+date: 2020-08-28T11:41:08+10:00
 ---
 
-## A little about this blog
+## Neale still in pole position 
 
-I'm a Data Scientist who is also a long time supporter of Aussie rules football. This blog will combine the best of both of these. It may interest you if you are into the field of Data Science or have any interest in AFL. Whichever the reason, I'll do my best to share the best of both to you.
+Round 13 saw the lead that Lachie Neale has at the top of the leadership reduce. He remains on top of the projected brownlow leaderboard for the year under both my model (10 votes ahead) and the supercoach model (4 votes) ahead. 
 
-As with any Data Science project, two broad things are needed: 1) a problem/interest/question and 2) Data.
+My model is based on a number of player variables from a match that includes Supercoach and AFL Fantasy scores, Disposals, Goals and final margin. The supercoach model looks primarily at supercoach scores and assigns votes to the top 3 players per match. 
 
-Since we know the first point is AFL related, data is what I need to make this blog work. Data science includes the use of Big Data- data which is available though typically not in the format or structure that can be readily analyzed. I aim to source this data from publicly available sites into a format ready for additional Data Science applications. For now the nature of data will look something like the below: 
+Other insights include:
+
+- Based on my model Jackson Macrae, Taylor Adams and Zach Merret have not been historically strong vote getters despite having productive years. Yet they find themselves with a very strong chance of placing in the top 3 with 5 rounds to go.
+
+- In the supercoach model, there are 3 ruckmen in Todd Goldstein, Max Gawn and Brodie Grundy in the top 6 for the year so far.
+
+- The betting agencies currently have Neale, Christian Petracca, Travis Boak and Dustin Martin as the favourites to win in that order. From these favourites the first 3 are in the top 7 of my model while the SC model only has Neale in the top 10.
+
+Leaderboards from my model and the SC model:
 
 ![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/ProposedERD.png?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
