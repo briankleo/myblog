@@ -10,4 +10,4 @@ A top 10 draft prodigy form the Geelong Falcons footy factory and a smoky for th
 
 It raises the question on how much weight one player carries whilst holding captaincy.
 
-![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/CaptaincyCurse.jpeg?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
+![ERD_1](https://raw.githubusercontent.com/briankleo/myblog/master/image/CaptaincyCurse.jpg?token=AQBDIGFQI7CJHH354WJ5S5S7CKPZ4)\
