@@ -1,7 +1,7 @@
 ---
 title: "Brownlow Update - Round 18"
 description: "description"
-date: 2020-09-15T11:41:08+10:00
+date: 2020-09-22T11:41:08+10:00
 ---
 
 ## Neale the runaway winner
